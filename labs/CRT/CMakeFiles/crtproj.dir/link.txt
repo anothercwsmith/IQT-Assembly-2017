@@ -1,0 +1,1 @@
+/usr/bin/cc   -nostdlib -g   CMakeFiles/crtproj.dir/crt.nasm.o CMakeFiles/crtproj.dir/main.c.o  -o crtproj -rdynamic 
